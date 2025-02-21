@@ -1,0 +1,6 @@
+﻿pandas==2.2.3
+google-ai-generativelanguage==0.6.10
+streamlit==1.42.1
+requests==2.32.3
+pillow==11.0.0
+python-dotenv==1.0.1
